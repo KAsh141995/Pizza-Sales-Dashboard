@@ -3,7 +3,7 @@ PowerBI dashboard showcasing one year of comprehensive pizza sales data, includi
 
 In Power BI, I incorporated slicers and navigation buttons for enhanced interactivity. Employed DAX functions to formulate key performance indicators (KPIs) and leveraged Power Query to generate more meaningful charts
 
-The analysis has also been conducted using SQL. I've cross-checked the insights from Power BI using SQL analysis. Utilized aggregate functions for this process. The queries have been included in the PDF for reference
+The analysis has also been conducted using SQL. I've cross-checked the insights from Power BI using SQL analysis. Utilized aggregate functions for this process. The queries have been included for reference
 
 ## KPI:
 1. Total Revenue 
